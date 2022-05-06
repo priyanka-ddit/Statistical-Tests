@@ -1,4 +1,4 @@
-This repository will be useful to understand chi-square test
+This repository will be useful to understand different statistical tests.
 
 1) Create virtual environment: py -m venv env
 
